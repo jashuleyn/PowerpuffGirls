@@ -27,3 +27,6 @@ In the future, we aim to further develop and refine our app by dedicating more t
 ## Figma Link
 
 https://www.figma.com/proto/w34D6tPur36OoKzdwgk0Bk/PPG-E-Nom?node-id=62-116&scaling=contain&mode=design&t=Mu0qExWWhRFmWymd-1
+
+## Presentation Link
+https://www.canva.com/design/DAGCrzm9Fqk/1PLYvdaMkjQJEGXhUO-fkg/view?utm_content=DAGCrzm9Fqk&utm_campaign=designshare&utm_medium=link&utm_source=editor
